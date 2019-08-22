@@ -1,0 +1,51 @@
+.page {
+    width: 800px;
+    margin: auto;
+    font-size: 16px;
+}
+.infophoto{
+    height:250px;
+}
+.info {
+    float: left;
+}
+.photo {
+    float: right;
+}
+.titre {
+    margin-bottom : 70px;
+}
+.gauche {
+    float: left;
+    font-size: 20px;
+}
+.duree{
+    font-size: 16px;
+    font-style: italic
+}
+.droite {
+    margin-left: 150px;
+    margin-top: 46px
+}
+h2 {
+    font-size : 28px;
+    color: #3388bb;
+    text-transform: uppercase;
+    border-bottom: 3px solid #3388bb /* Souligne */
+}
+.soustitre {
+    font-weight: bold;
+    font-size: 18px;
+}
+#experience-gauche p{
+    margin-top: 50px
+}
+#langue-droite p{
+    margin-top: 25px
+}
+p {
+    color: midnightblue
+}
+#information {
+    color: black
+}
